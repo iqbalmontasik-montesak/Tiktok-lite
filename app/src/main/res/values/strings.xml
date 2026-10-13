@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TikTok Lite</string>
+    <string name="nav_home">Beranda</string>
+    <string name="nav_discover">Temukan</string>
+    <string name="nav_create">Buat</string>
+    <string name="nav_inbox">Kotak Masuk</string>
+    <string name="nav_profile">Profil</string>
+    <string name="tab_foryou">Untuk Anda</string>
+    <string name="tab_following">Mengikuti</string>
+    <string name="data_saver_active">Hemat Data Aktif</string>
+    <string name="clean_cache">Bersihkan Cache</string>
+</resources>
